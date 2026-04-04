@@ -6,8 +6,11 @@
   </a>
 </p>
 
+### 🏆 My GitHub Trophies
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=jemmziray-tech&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophy" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jemmziray-tech&theme=dracula&no-bg=true&margin-w=15" alt="John Mziray Trophies" />
+  </a>
 </p>
 
 I am a Software Developer based in Tanzania, currently pursuing a **BSc in Artificial Intelligence & Machine Learning** at the **University of Limerick** (Expected Class of 2030). 
@@ -36,8 +39,9 @@ A dynamic weather tracking application demonstrating API integration and real-ti
 ---
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=vision-friendly-dark&hide_border=true&align=center" alt="John's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
