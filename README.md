@@ -12,7 +12,7 @@ Prior to university, I completed an intensive coding bootcamp, giving me a stron
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/cpu.svg" width="22" height="22"> Professional Tech Stack
+## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="22" height="22" valign="bottom"> Professional Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,pandas,opencv,git,github&theme=dark" />
@@ -21,7 +21,7 @@ Prior to university, I completed an intensive coding bootcamp, giving me a stron
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layers.svg" width="22" height="22"> Featured Projects
+## <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="22" height="22" valign="bottom"> Featured Projects
 
 **1. [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ)**
 An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV, it utilizes deep learning facial encodings to dynamically identify individuals and automate attendance logging, specifically optimized to handle changing lighting conditions in local African environments.
@@ -34,7 +34,7 @@ I am currently architecting my most complex project yet, focusing on Natural Lan
 
 ---
 
-## <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/share-2.svg" width="22" height="22"> Let's Connect
+## <img src="https://unpkg.com/lucide-static@latest/icons/send.svg" width="22" height="22" valign="bottom"> Let's Connect
 <p align="left">
 <a href="mailto:jem.mziray@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -47,7 +47,7 @@ I am currently architecting my most complex project yet, focusing on Natural Lan
 
 ---
 
-### <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/bar-chart-3.svg" width="22" height="22"> Coding Activity
+## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> Coding Activity
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
