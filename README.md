@@ -6,13 +6,6 @@
   </a>
 </p>
 
-### 🏆 My GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jemmziray-tech&theme=dracula&no-bg=true&margin-w=15" alt="John Mziray Trophies" />
-  </a>
-</p>
-
 I am a Software Developer based in Tanzania, currently pursuing a **BSc in Artificial Intelligence & Machine Learning** at the **University of Limerick** (Expected Class of 2030). 
 
 Prior to university, I completed an intensive coding bootcamp, giving me a strong foundation in building real-world software. My technical passions lie in **Computer Vision**, **Natural Language Processing (NLP)**, **Generative AI**, and **Data Analysis**.
@@ -31,17 +24,18 @@ Prior to university, I completed an intensive coding bootcamp, giving me a stron
 ## <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="22" height="22" valign="bottom"> Featured Projects
 
 **1. [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ)**
-An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV, it utilizes deep learning facial encodings to dynamically identify individuals.
+An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV.
 
 **2. [Real-Time Weather App](https://github.com/jemmziray-tech/Atmos-Live-API)**
-A dynamic weather tracking application demonstrating API integration and real-time meteorological data processing.
+A dynamic weather tracking application demonstrating API integration.
 
 ---
 
 ## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="John's Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
