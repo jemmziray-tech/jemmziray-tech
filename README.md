@@ -1,56 +1,112 @@
-# Hi there, I'm John Mziray <img src="https://media.giphy.com/media/hvRJCLz82cyOtLVCtS/giphy.gif" width="35">
-
-<p align="left">
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=500&lines=Software+Developer;AI+%26+ML+Student;Computer+Vision+Enthusiast;Building+Tech+in+Tanzania" alt="Typing SVG" />
-  </a>
-</p>
-
-I am a Software Developer based in Tanzania, currently pursuing a **BSc in Artificial Intelligence & Machine Learning** at the **University of Limerick** (Expected Class of 2030). 
-
-Prior to university, I completed an intensive coding bootcamp, giving me a strong foundation in building real-world software. My technical passions lie in **Computer Vision**, **Natural Language Processing (NLP)**, **Generative AI**, and **Data Analysis**.
-
----
-
-## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="22" height="22" valign="bottom"> Professional Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,opencv,git,github,vscode,pycharm&theme=dark" />
-  </a>
+<!-- 🔥 Animated Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Mziray+👋;AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems+for+Real-World+Impact" />
 </p>
 
 ---
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="22" height="22" valign="bottom"> Featured Projects
+## 🧠 About Me
 
-**1. [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ)**
-An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV.
+🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)*  
+🌍 Based in Tanzania  
+💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems**  
 
-**2. [Real-Time Weather App](https://github.com/jemmziray-tech/Atmos-Live-API)**
-A dynamic weather tracking application demonstrating API integration.
+I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
 
 ---
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> GitHub Analytics
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="John's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" alt="Top Languages" height="170" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=react-dark&area=true&hide_border=true" width="100%" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ---
 
-## <img src="https://unpkg.com/lucide-static@latest/icons/send.svg" width="22" height="22" valign="bottom"> Let's Connect
-<p align="left">
+## 🚀 Featured Projects
+
+### 🔹 FaceLogTZ  
+🧠 Smart Attendance System powered by Computer Vision  
+- Offline-first architecture  
+- Facial recognition using deep learning encodings  
+- Optimized for **low-light & real-world African environments**  
+
+🔗 https://github.com/jemmziray-tech/FaceLogTZ  
+
+---
+
+### 🔹 Real-Time Weather App  
+🌦️ Live Weather Tracking Application  
+- Integrated external APIs  
+- Real-time data processing  
+- Location-based insights  
+
+🔗 https://github.com/jemmziray-tech/Atmos-Live-API  
+
+---
+
+### 🔹 GenAI & NLP Project *(In Progress 🚧)*  
+🤖 Next-generation AI system  
+- Focused on Natural Language Processing & Generative AI  
+- Scalable architecture  
+- Code coming soon  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=jemmziray-tech&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌍 Vision
+
+I aim to leverage Artificial Intelligence to solve **high-impact problems in Africa**, especially in:
+- Healthcare 🏥  
+- Education 📚  
+- Smart Systems ⚡  
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+
 <a href="mailto:jem.mziray@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/john-mziray-4a0b88392">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Location-Limerick%20%2F%20Arusha-lightgrey?style=for-the-badge" />
+
 </p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jemmziray-tech&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ *“Building the future with AI, one project at a time.”*
