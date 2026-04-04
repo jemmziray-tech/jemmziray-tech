@@ -1,112 +1,48 @@
-<!-- 🔥 Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Mziray+👋;AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems+for+Real-World+Impact" />
-</p>
+# Project Title
+
+## Animated Typing Header
+
+```plaintext
+Your engaging header animation goes here!
+```
+
+## Overview
+This project focuses on many modern animations and an enhanced tech stack. It aims to provide a more integrated working environment for developers to collaborate and contribute effectively.
+
+## Enhanced Tech Stack
+- **Frontend:**
+  - React
+  - Vue.js
+- **Backend:**
+  - Node.js
+  - Express
+- **Database:**
+  - MongoDB
+  - PostgreSQL
+- **DevOps:**
+  - Docker
+  - Kubernetes
+
+## Collaboration
+We are looking for collaborators! If you have a passion for development and want to contribute to this project, join us.
+
+### Contributing Guidelines
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Submit a pull request with a clear description of changes.
+
+## Skills Representation
+We value diverse skills in our contributors. If you have experience in the following areas, we want you:
+- Frontend Development
+- Backend Development
+- UI/UX Design
+- Documentation
+
+## Open Source Engagement
+We encourage open source contributions and community engagement. Help us build a vibrant and impactful project!
 
 ---
 
-## 🧠 About Me
-
-🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)*  
-🌍 Based in Tanzania  
-💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems**  
-
-I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
-
----
-
-## ⚙️ Tech Stack
-
-<p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 FaceLogTZ  
-🧠 Smart Attendance System powered by Computer Vision  
-- Offline-first architecture  
-- Facial recognition using deep learning encodings  
-- Optimized for **low-light & real-world African environments**  
-
-🔗 https://github.com/jemmziray-tech/FaceLogTZ  
-
----
-
-### 🔹 Real-Time Weather App  
-🌦️ Live Weather Tracking Application  
-- Integrated external APIs  
-- Real-time data processing  
-- Location-based insights  
-
-🔗 https://github.com/jemmziray-tech/Atmos-Live-API  
-
----
-
-### 🔹 GenAI & NLP Project *(In Progress 🚧)*  
-🤖 Next-generation AI system  
-- Focused on Natural Language Processing & Generative AI  
-- Scalable architecture  
-- Code coming soon  
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=jemmziray-tech&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🌍 Vision
-
-I aim to leverage Artificial Intelligence to solve **high-impact problems in Africa**, especially in:
-- Healthcare 🏥  
-- Education 📚  
-- Smart Systems ⚡  
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="mailto:jem.mziray@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/john-mziray-4a0b88392">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jemmziray-tech&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-⭐ *“Building the future with AI, one project at a time.”*
+**Today's Date:** 2026-04-04 22:45:45 (UTC)  
+**Collaborator:** jemmziray-tech  
