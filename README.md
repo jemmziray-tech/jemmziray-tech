@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=jemmziray-tech&theme=dracula&column=7&margin-w=15&no-bg=true" alt="trophy" />
+</p>
+
 I am a Software Developer based in Tanzania, currently pursuing a **BSc in Artificial Intelligence & Machine Learning** at the **University of Limerick** (Expected Class of 2030). 
 
 Prior to university, I completed an intensive coding bootcamp, giving me a strong foundation in building real-world software. My technical passions lie in **Computer Vision**, **Natural Language Processing (NLP)**, **Generative AI**, and **Data Analysis**.
@@ -15,7 +19,7 @@ Prior to university, I completed an intensive coding bootcamp, giving me a stron
 ## <img src="https://unpkg.com/lucide-static@latest/icons/cpu.svg" width="22" height="22" valign="bottom"> Professional Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pandas,opencv,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pandas,opencv,git,github,vscode,pycharm&theme=dark" />
   </a>
 </p>
 
@@ -24,13 +28,21 @@ Prior to university, I completed an intensive coding bootcamp, giving me a stron
 ## <img src="https://unpkg.com/lucide-static@latest/icons/layers.svg" width="22" height="22" valign="bottom"> Featured Projects
 
 **1. [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ)**
-An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV, it utilizes deep learning facial encodings to dynamically identify individuals and automate attendance logging, specifically optimized to handle changing lighting conditions in local African environments.
+An offline-first, locally hosted Smart Attendance System. Built using Python and OpenCV, it utilizes deep learning facial encodings to dynamically identify individuals.
 
 **2. [Real-Time Weather App](https://github.com/jemmziray-tech/Atmos-Live-API)**
-A dynamic weather tracking application. This project demonstrates my ability to integrate live external APIs, process real-time meteorological data, and deliver accurate, location-based information to users. 
+A dynamic weather tracking application demonstrating API integration and real-time meteorological data processing.
 
-**3. [Major GenAI & NLP Project]** *(In Development)*
-I am currently architecting my most complex project yet, focusing on Natural Language Processing and Generative AI. Code will be pushed soon—stay tuned.
+---
+
+## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=vision-friendly-dark&hide_border=true&align=center" alt="John's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
 
 ---
 
@@ -43,11 +55,4 @@ I am currently architecting my most complex project yet, focusing on Natural Lan
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <img src="https://img.shields.io/badge/Location-Limerick%20%2F%20Arusha-lightgrey?style=for-the-badge" />
-</p>
-
----
-
-## <img src="https://unpkg.com/lucide-static@latest/icons/line-chart.svg" width="22" height="22" valign="bottom"> Coding Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
