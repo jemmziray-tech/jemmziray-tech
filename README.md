@@ -1,4 +1,3 @@
-<!-- 🔥 Animated Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Mziray+👋;AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems+for+Real-World+Impact" />
 </p>
@@ -7,24 +6,23 @@
 
 ## 🧠 About Me
 
-🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)*  
-🌍 Based in Tanzania  
-💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems**  
-
-I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
+🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* 🌍 Based in Tanzania  
+🏆 **Certified:** Google AI Professional & Google Data Analytics Professional
+💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems** I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -35,9 +33,7 @@ I build intelligent systems that solve **real-world problems**, with a strong fo
 🧠 Smart Attendance System powered by Computer Vision  
 - Offline-first architecture  
 - Facial recognition using deep learning encodings  
-- Optimized for **low-light & real-world African environments**  
-
-🔗 https://github.com/jemmziray-tech/FaceLogTZ  
+- Optimized for **low-light & real-world African environments** 🔗 [View Repository](https://github.com/jemmziray-tech/FaceLogTZ)  
 
 ---
 
@@ -47,12 +43,11 @@ I build intelligent systems that solve **real-world problems**, with a strong fo
 - Real-time data processing  
 - Location-based insights  
 
-🔗 https://github.com/jemmziray-tech/Atmos-Live-API  
+🔗 [View Repository](https://github.com/jemmziray-tech/Atmos-Live-API)  
 
 ---
 
-### 🔹 GenAI & NLP Project *(In Progress 🚧)*  
-🤖 Next-generation AI system  
+### 🔹 GenAI & NLP Project *(In Progress 🚧)* 🤖 Next-generation AI system  
 - Focused on Natural Language Processing & Generative AI  
 - Scalable architecture  
 - Code coming soon  
@@ -62,16 +57,16 @@ I build intelligent systems that solve **real-world problems**, with a strong fo
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://streak-stats.demolab.com?user=jemmziray-tech&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=jemmziray-tech&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=tokyonight&hide_border=true&bg_color=1A1B27" alt="John's Activity Graph" />
 </p>
 
 ---
@@ -85,28 +80,25 @@ I aim to leverage Artificial Intelligence to solve **high-impact problems in Afr
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-<p align="center">
+## 🤝 Let's Connect
 
 <a href="mailto:jem.mziray@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://linkedin.com/in/john-mziray-4a0b88392">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</p>
+<br><br>
 
----
+### 👀 Profile Views
 
-## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=jemmziray-tech&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jemmziray-tech&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
+<br><br>
 
 ⭐ *“Building the future with AI, one project at a time.”*
+
+</div>
