@@ -28,6 +28,16 @@
 
 ## 🚀 Featured Projects
 
+### 🔹 Enterprise Churn Interception  
+🏢 Machine Learning Model for Customer Retention  
+- Deployed predictive analytics model for enterprise use  
+- Identifies at-risk customers to proactively prevent churn  
+- End-to-end ML pipeline from data processing to deployment  
+
+🔗 [View Repository](https://github.com/jemmziray-tech/enterprise-churn-interception) | 🚀 [Live Demo](https://enterprise-churn-interception.streamlit.app/)
+
+---
+
 ### 🔹 FaceLogTZ  
 🧠 Smart Attendance System powered by Computer Vision  
 - Offline-first architecture  
@@ -87,7 +97,9 @@ I aim to leverage Artificial Intelligence to solve **high-impact problems in Afr
 
 <div align="center">
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect & Collaborate
+
+I'm always open to discussing AI, open-source collaborations, or new opportunities!
 
 <a href="mailto:jem.mziray@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
