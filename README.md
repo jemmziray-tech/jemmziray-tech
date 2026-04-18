@@ -94,6 +94,8 @@
 
 ---
 
+## ⏱️ Weekly Coding Stats
+
 ## 🌍 Vision
 
 I aim to leverage Artificial Intelligence to solve **high-impact problems in Africa**, especially in:
