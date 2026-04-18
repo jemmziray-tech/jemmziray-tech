@@ -107,9 +107,9 @@ I aim to leverage Artificial Intelligence to solve **high-impact problems in Afr
 
 <div align="center">
 
-## 🤝 Let's Connect & Collaborate
-
 ### 🎧 Now Playing
+
+## 🤝 Let's Connect & Collaborate
 
 I'm always open to discussing AI, open-source collaborations, or new opportunities!
 
