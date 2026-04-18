@@ -109,6 +109,8 @@ I aim to leverage Artificial Intelligence to solve **high-impact problems in Afr
 
 ## 🤝 Let's Connect & Collaborate
 
+### 🎧 Now Playing
+
 I'm always open to discussing AI, open-source collaborations, or new opportunities!
 
 <a href="mailto:jem.mziray@gmail.com">
