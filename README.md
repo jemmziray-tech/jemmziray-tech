@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <br>
@@ -55,6 +54,12 @@
 ---
 
 ## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://committers.top/tanzania">
+    <img src="https://user-badge.committers.top/tanzania_public/jemmziray-tech.svg" alt="committers.top badge" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
