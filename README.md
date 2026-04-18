@@ -12,6 +12,14 @@
 
 ---
 
+## ⚡ Current Status
+
+- 🔭 **Working on:** Further developing [FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ), a robust CV-powered attendance system.
+- 🌱 **Learning:** Deepening my expertise in deep learning frameworks like **PyTorch** and **TensorFlow**.
+- 👯 **Collaborate with me:** I'm actively looking for open-source contributors for **FaceLogTZ**. If you are passionate about Computer Vision and offline-first architectures, [reach out or open a PR!](https://github.com/jemmziray-tech/FaceLogTZ)
+
+---
+
 ## ⚙️ Tech Stack & Tools
 
 <p align="center">
