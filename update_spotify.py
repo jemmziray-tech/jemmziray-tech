@@ -5,12 +5,12 @@ import urllib.parse
 import json
 import re
 
-# 1. Grab secrets from GitHub Actions environment
+# Grab secrets
 client_id = os.environ.get('SPOTIFY_CLIENT_ID')
 client_secret = os.environ.get('SPOTIFY_CLIENT_SECRET')
 refresh_token = os.environ.get('SPOTIFY_REFRESH_TOKEN')
 
-# 2. Authenticate and get a fresh Access Token
+# Authenticate
 auth_str = f"{client_id}:{client_secret}"
 b64_auth_str = base64.b64encode(auth_str.encode()).decode()
 token_url = 'https://accounts.spotify.com/api/token'
@@ -25,18 +25,17 @@ data = urllib.parse.urlencode({
 }).encode()
 
 try:
-    # Fetch Access Token
     req = urllib.request.Request(token_url, data=data, headers=headers)
     with urllib.request.urlopen(req) as response:
         access_token = json.loads(response.read().decode())['access_token']
 
-    # 3. Check what song is currently playing
+    # Get playing song
     playing_url = 'https://api.spotify.com/v1/me/player/currently-playing'
     req = urllib.request.Request(playing_url, headers={'Authorization': f'Bearer {access_token}'})
     
     try:
         with urllib.request.urlopen(req) as response:
-            if response.getcode() == 204: # 204 means nothing is playing
+            if response.getcode() == 204:
                 playing_text = "🎧 *Not playing anything right now*"
             else:
                 track_data = json.loads(response.read().decode())
@@ -49,11 +48,11 @@ try:
     except urllib.error.HTTPError:
         playing_text = "🎧 *Not playing anything right now*"
         
-    # 4. Inject the text directly into your README
+    # Read README
     with open('README.md', 'r', encoding='utf-8') as f:
         readme = f.read()
         
-    # Find the hidden markers and replace the text between them
+    # THE BULLETPROOF FIX: Distinct START and END tags
     new_readme = re.sub(
         r'.*?',
         f'\n{playing_text}\n',
@@ -61,6 +60,7 @@ try:
         flags=re.DOTALL
     )
     
+    # Save README
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_readme)
         
