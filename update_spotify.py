@@ -52,19 +52,20 @@ try:
     with open('README.md', 'r', encoding='utf-8') as f:
         readme = f.read()
         
-    # THE BULLETPROOF FIX: Distinct START and END tags
-    new_readme = re.sub(
-        r'.*?',
-        f'\n{playing_text}\n',
-        readme,
-        flags=re.DOTALL
-    )
-    
-    # Save README
-    with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(new_readme)
+    # THE SAFETY LOCK: Abort if markers are missing
+    if '' in readme and '' in readme:
+        new_readme = re.sub(
+            r'.*?',
+            f'\n{playing_text}\n',
+            readme,
+            flags=re.DOTALL
+        )
         
-    print(f"Successfully updated README with: {playing_text}")
+        with open('README.md', 'w', encoding='utf-8') as f:
+            f.write(new_readme)
+        print(f"Successfully updated README with: {playing_text}")
+    else:
+        print("SAFETY LOCK ACTIVATED: Markers not found. File was NOT modified.")
 
 except Exception as e:
     print(f"Failed to update Spotify status. Error: {e}")
