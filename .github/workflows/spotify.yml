@@ -2,16 +2,31 @@ name: Spotify Now Playing
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *" # Runs every 5 minutes
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: kittinan/spotify-github-profile@master
+      - uses: actions/checkout@v4 # Upgraded to v4 to fix the Node.js warning
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          spotify_client_id: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          spotify_client_secret: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          spotify_refresh_token: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          python-version: '3.10'
+          
+      - name: Run Spotify Script
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: python update_spotify.py
+        
+      - name: Commit changes to README
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git add README.md
+          git commit -m "Update Spotify status" || echo "No changes to commit"
+          git push
