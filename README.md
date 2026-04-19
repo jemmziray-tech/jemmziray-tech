@@ -132,6 +132,8 @@ I'm always open to discussing AI, open-source collaborations, or new opportuniti
 
 <br><br>
 
-⭐ *“Building the future with AI, one project at a time.”*
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Motivational Quote" />
+</a>
 
 </div>
