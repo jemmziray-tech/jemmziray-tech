@@ -9,7 +9,6 @@
 🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* 🌍 Based in Tanzania  
 🏆 **Certified:** Google AI Professional & Google Data Analytics Professional
 
-
 💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems** I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
 
 ---
