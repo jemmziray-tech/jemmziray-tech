@@ -8,7 +8,7 @@
   <summary><b>▼ Who am I?</b></summary>
   <br>
   🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* | 🌍 Based in Tanzania<br>
-  🏆 **Certified:** Google AI Professional & Google Data Analytics Professional<br>
+  🏆 **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a><br>
   💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems**. I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
   
   <br><br>
