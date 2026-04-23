@@ -51,7 +51,6 @@
   <br>
   <b>🔹 Enterprise Churn Interception</b><br>
   🏢 Machine Learning Model for Customer Retention<br>
-  - Deployed predictive analytics model for enterprise use<br>
   - Engineered predictive analytics to identify at-risk customers, enabling data-driven retention strategies<br>
   - End-to-end ML pipeline from data processing to deployment<br>
   🔗 <a href="https://github.com/jemmziray-tech/enterprise-churn-interception">View Repository</a> | 🚀 <a href="https://enterprise-churn-interception.streamlit.app/">Live Demo</a>
@@ -108,6 +107,13 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="100%" alt="John's Activity Graph" />
   </p>
   
+  <br>
+  
+  <h3 align="center">⏱️ Weekly Coding Stats</h3>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true" alt="John's WakaTime Stats" />
+  </div>
+  
 </details>
 
 <hr>
@@ -122,8 +128,6 @@
   <a href="https://linkedin.com/in/john-mziray-4a0b88392">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <br><br>
 
   <br><br>
 
