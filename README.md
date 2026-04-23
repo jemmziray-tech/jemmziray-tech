@@ -111,7 +111,7 @@
   
   <h3 align="center">⏱️ Weekly Coding Stats</h3>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true" alt="John's WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=John_Mziray&layout=compact&theme=tokyonight&hide_border=true" alt="John's WakaTime Stats" />
   </div>
   
 </details>
