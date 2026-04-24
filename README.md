@@ -119,7 +119,7 @@
 <hr>
 
 <div align="center">
-  <h2>🤝 Let's Connect & Collaborate</h2>
+  <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="35" align="center"> Let's Connect & Collaborate</h2>
   <p>I'm always open to discussing AI, open-source collaborations, or new opportunities!</p>
   
   <a href="mailto:jem.mziray@gmail.com">
