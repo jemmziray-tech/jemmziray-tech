@@ -7,10 +7,10 @@
 <details>
   <summary><b>▼ Who am I?</b></summary>
   <br>
-  🎓 BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* | 🌍 Based in Tanzania<br>
-  🌐 **Portfolio:** <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a><br>
-  🏆 **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a><br>
-  💡 Passionate about **Computer Vision, NLP, Generative AI, and Data Systems**. I build intelligent systems that solve **real-world problems**, with a strong focus on **African environments and infrastructure**.
+  🎓 BSc in Artificial Intelligence & Machine Learning <i>(Class of 2030)</i> | 🌍 Based in Tanzania<br>
+  🌐 <b>Portfolio:</b> <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a><br>
+  🏆 <b>Certified:</b> Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a><br>
+  💡 Passionate about <b>Computer Vision, NLP, Generative AI, and Data Systems</b>. I build intelligent systems that solve <b>real-world problems</b>, with a strong focus on <b>African environments and infrastructure</b>.
   
   <br><br>
   
@@ -76,11 +76,11 @@
   
   <br><br>
   
-  <b>🔹 GenAI & NLP Project *(In Progress 🚧)*</b><br>
-  🤖 Next-generation AI system<br>
-  - Focused on Natural Language Processing & Generative AI<br>
-  - Scalable architecture<br>
-  - Code coming soon
+  <b>🔹 Next-Gen LLM & NLP Application</b><br>
+  🤖 Interactive AI System powered by Generative AI<br>
+  - Scalable architecture processing natural language in real-time<br>
+  - Fully deployed interactive user interface for seamless inference<br>
+  🔗 <a href="#">View Repository</a> | 🚀 <a href="#">Live Demo</a>
 </details>
 
 <hr>
