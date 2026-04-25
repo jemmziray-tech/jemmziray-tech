@@ -42,6 +42,10 @@
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   </p>
 </details>
 
@@ -50,6 +54,16 @@
 <details>
   <summary><b>▼ What have I built?</b></summary>
   <br>
+
+  <b>🔹 Dar es Salaam Smart City: Traffic & Weather Engine</b><br>
+  🚦 Cloud-Native Data Engineering Pipeline & 3D Spatial Dashboard<br>
+  - 100% autonomous serverless ingestion using GitHub Actions & Google APIs<br>
+  - Real-time 3D geospatial visualization of city bottlenecks via Pydeck<br>
+  - Secure NoSQL architecture using Google Cloud Firestore (Firebase)<br>
+  🔗 <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">View Repository</a> | 🚀 <a href="https://dartrafficproject-johnmziray.streamlit.app/">Live Demo</a>
+  
+  <br><br>
+
   <b>🔹 Enterprise Churn Interception</b><br>
   🏢 Machine Learning Model for Customer Retention<br>
   - Engineered predictive analytics to identify at-risk customers, enabling data-driven retention strategies<br>
@@ -73,14 +87,7 @@
   - Real-time data processing<br>
   - Location-based insights<br>
   🔗 <a href="https://github.com/jemmziray-tech/Atmos-Live-API">View Repository</a>
-  
-  <br><br>
-  
-  <b>🔹 Next-Gen LLM & NLP Application</b><br>
-  🤖 Interactive AI System powered by Generative AI<br>
-  - Scalable architecture processing natural language in real-time<br>
-  - Fully deployed interactive user interface for seamless inference<br>
-  🔗 <a href="#">View Repository</a> | 🚀 <a href="#">Live Demo</a>
+
 </details>
 
 <hr>
