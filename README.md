@@ -1,25 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Mziray+👋;AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+for+Real-World+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=John+Mziray;AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+for+Real-World+Impact" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="28" align="center"> Executive Summary
 
-🎓 **Education:** BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* | 🌍 Based in Tanzania  
-🌐 **Portfolio:** <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a>  
-🏆 **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a>  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="20" align="center"> **Education:** BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* |  Based in Tanzania  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f517/512.gif" width="20" align="center"> **Portfolio:** <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a>  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="20" align="center"> **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a>  
 
-💡 Passionate about **Data Engineering, Generative AI, and Computer Vision**. I build intelligent, cloud-native systems that solve **real-world problems**, with a strict focus on **African infrastructure, fault-tolerant pipelines, and MLOps**.
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20" align="center"> Passionate about **Data Engineering, Generative AI, and Computer Vision**. I build intelligent, cloud-native systems that solve **real-world problems**, with a strict focus on **African infrastructure, fault-tolerant pipelines, and MLOps**.
 
-* 🔭 **Currently Working on:** Scaling the <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">Dar es Salaam Smart City Engine</a>, a fully automated, cloud-native traffic telemetry pipeline.
-* 🌱 **Currently Learning:** Deepening my expertise in deep learning frameworks (PyTorch) and Enterprise CI/CD.
-* 👯 **Looking to Collaborate:** I'm actively looking for open-source contributors for **FaceLogTZ** (offline-first CV attendance). <a href="https://github.com/jemmziray-tech/FaceLogTZ">Reach out or open a PR!</a>
-* 🌍 **My Vision:** I aim to leverage Artificial Intelligence to solve high-impact problems in Africa, especially in: Smart Infrastructure ⚡, Healthcare 🏥, and Education 📚.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="18" align="center"> **Current Initiative:** Scaling the <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">Dar es Salaam Smart City Engine</a>, a fully automated, cloud-native traffic telemetry pipeline.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="18" align="center"> **Continuous Learning:** Deepening my expertise in deep learning frameworks (PyTorch) and Enterprise CI/CD.
+* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="18" align="center"> **Open to Collaboration:** I'm actively looking for open-source contributors for **FaceLogTZ** (offline-first CV attendance). <a href="https://github.com/jemmziray-tech/FaceLogTZ">Reach out or open a PR!</a>
 
 ---
 
-## 🛠️ Enterprise Tech Stack
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" align="center"> Technical Arsenal
 
 <p align="left">
   <b>Languages & Core Architecture</b><br>
@@ -49,34 +48,34 @@
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.gif" width="28" align="center"> Key Engineering Projects
 
-<b>🔹 Dar es Salaam Smart City: Traffic & Weather Engine</b> <i>(Flagship Project)</i><br>
-🚦 Cloud-Native Data Engineering Pipeline & AI Dashboard<br>
-- <b>Enterprise CI/CD & Ingestion:</b> 100% autonomous serverless pipeline utilizing `ThreadPoolExecutor` for concurrent scraping and `pytest` for strict CI validation.<br>
-- <b>Data Contracts & MLOps:</b> Protects NoSQL schema drift with Pydantic and tracks model predictive drift (R² and MAE) via automated weekly retraining workflows.<br>
-- <b>GenAI Integration:</b> Utilizes Google Gemini 1.5 Flash to generate dynamic, live commute radio broadcasts.<br>
-🔗 <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">View Repository</a> | 🚀 <a href="https://dartrafficproject-johnmziray.streamlit.app/">Live Command Center</a>
-
-<br>
-
-<b>🔹 Enterprise Churn Interception</b><br>
-🏢 Machine Learning Model for Customer Retention<br>
-- Engineered predictive analytics to identify at-risk customers, enabling data-driven retention strategies.<br>
-- End-to-end ML pipeline from data processing to Streamlit deployment.<br>
-🔗 <a href="https://github.com/jemmziray-tech/enterprise-churn-interception">View Repository</a> | 🚀 <a href="https://enterprise-churn-interception.streamlit.app/">Live Demo</a>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a6/512.gif" width="22" align="center"> **Dar es Salaam Smart City: Traffic & Weather Engine** <i>(Flagship)</i><br>
+<i>Cloud-Native Data Engineering Pipeline & AI Dashboard</i><br>
+▹ <b>Enterprise CI/CD & Ingestion:</b> 100% autonomous serverless pipeline utilizing `ThreadPoolExecutor` for concurrent scraping and `pytest` for strict CI validation.<br>
+▹ <b>Data Contracts & MLOps:</b> Protects NoSQL schema drift with Pydantic and tracks model predictive drift (R² and MAE) via automated weekly retraining workflows.<br>
+▹ <b>GenAI Integration:</b> Utilizes Google Gemini 1.5 Flash to generate dynamic, live commute radio broadcasts.<br>
+🔗 <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">View Repository</a> | 🌐 <a href="https://dartrafficproject-johnmziray.streamlit.app/">Live Command Center</a>
 
 <br>
 
-<b>🔹 FaceLogTZ</b><br>
-🧠 Smart Attendance System powered by Computer Vision<br>
-- Offline-first architecture utilizing facial recognition deep learning encodings.<br>
-- Optimized specifically for <b>low-light & real-world African environments</b>.<br>
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e2/512.gif" width="22" align="center"> **Enterprise Churn Interception**<br>
+<i>Machine Learning Model for Customer Retention</i><br>
+▹ Engineered predictive analytics to identify at-risk customers, enabling data-driven retention strategies.<br>
+▹ End-to-end ML pipeline from data processing to Streamlit deployment.<br>
+🔗 <a href="https://github.com/jemmziray-tech/enterprise-churn-interception">View Repository</a> | 🌐 <a href="https://enterprise-churn-interception.streamlit.app/">Live Demo</a>
+
+<br>
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" width="22" align="center"> **FaceLogTZ**<br>
+<i>Smart Attendance System powered by Computer Vision</i><br>
+▹ Offline-first architecture utilizing facial recognition deep learning encodings.<br>
+▹ Optimized specifically for low-light & real-world African environments.<br>
 🔗 <a href="https://github.com/jemmziray-tech/FaceLogTZ">View Repository</a>
 
 ---
 
-## 📊 GitHub Analytics
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28" align="center"> Metrics & Telemetry
 
 <p align="center">
   <a href="https://committers.top/tanzania">
@@ -100,10 +99,10 @@
 
 ---
 
-## 🤝 Connect & Collaborate
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28" align="center"> Contact & Network
 
 <div align="center">
-  <p>I'm always open to discussing AI, Data Engineering, open-source collaborations, or new opportunities!</p>
+  <p>I am actively open to discussing Data Engineering roles, MLOps collaborations, or new infrastructure projects.</p>
   
   <a href="mailto:jem.mziray@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
