@@ -6,7 +6,7 @@
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="28" align="center"> Executive Summary
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="20" align="center"> **Education:** BSc in Artificial Intelligence & Machine Learning *(Class of 2030)* |  Based in Tanzania  
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="20" align="center"> **Education:** BSc in Artificial Intelligence & Machine Learning, University of Limerick *(Class of 2030)* |  Based in Tanzania  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f517/512.gif" width="20" align="center"> **Portfolio:** <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a>  
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="20" align="center"> **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a>  
 
