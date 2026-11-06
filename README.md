@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" align="center"> Technical Arsenal
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" align="center"> Tech Stack
 
 <p align="left">
   <b>Languages & Core Architecture</b><br>
