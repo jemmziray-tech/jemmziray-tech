@@ -79,8 +79,8 @@
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28" align="center"> Metrics & Telemetry
 
 <p align="center">
-  <a href="https://committers.top/tanzania">
-    <img src="https://user-badge.committers.top/tanzania_public/jemmziray-tech.svg?v=1" alt="committers.top badge" />
+  <a href="https://committers.top/ireland">
+    <img src="https://user-badge.committers.top/ireland_public/jemmziray-tech.svg?v=1" alt="committers.top badge" />
   </a>
 </p>
 
