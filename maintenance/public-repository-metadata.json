@@ -1,0 +1,331 @@
+{
+  "FaceLogTZ": {
+    "description": "Local face-recognition attendance prototype with optional WhatsApp notifications.",
+    "topics": [
+      "python",
+      "computer-vision",
+      "attendance",
+      "tanzania"
+    ]
+  },
+  "jemmziray-tech": {
+    "description": "John Mziray: AI and Machine Learning student at the University of Limerick.",
+    "topics": [
+      "profile",
+      "portfolio",
+      "machine-learning",
+      "tanzania"
+    ]
+  },
+  "Atmos-Live-API": {
+    "description": "Python command-line weather lookup using WeatherAPI.",
+    "topics": [
+      "python",
+      "weather",
+      "api",
+      "cli"
+    ]
+  },
+  "BakiSafi-Calculator": {
+    "description": "Tanzanian transaction-fee calculator prototype with a Streamlit interface.",
+    "topics": [
+      "python",
+      "streamlit",
+      "calculator",
+      "tanzania"
+    ]
+  },
+  "netflix_movies_analysis": {
+    "description": "Exploratory analysis of Netflix movies from the 1990s using pandas.",
+    "topics": [
+      "python",
+      "pandas",
+      "data-analysis",
+      "jupyter-notebook"
+    ]
+  },
+  "UjenziSmart": {
+    "description": "Static construction-services web prototype with customer and supplier interfaces.",
+    "topics": [
+      "html",
+      "javascript",
+      "prototype",
+      "tanzania"
+    ]
+  },
+  "Python_programs": {
+    "description": "Python exercises, notebooks and small learning projects.",
+    "topics": [
+      "python",
+      "learning",
+      "exercises"
+    ]
+  },
+  "ai-email-agent": {
+    "description": "Gemini and Gmail API experiment for generating and sending task emails.",
+    "topics": [
+      "python",
+      "gemini",
+      "gmail-api",
+      "automation"
+    ]
+  },
+  "enterprise-churn-interception": {
+    "description": "Reproducible telecom churn experiment with XGBoost, evaluation and Streamlit.",
+    "topics": [
+      "python",
+      "machine-learning",
+      "xgboost",
+      "streamlit"
+    ]
+  },
+  "TZ_NLP_Harvest_bot": {
+    "description": "Telegram text-collection prototype for Swahili NLP experiments.",
+    "topics": [
+      "python",
+      "telegram-bot",
+      "swahili",
+      "nlp"
+    ]
+  },
+  "Dar_Traffic_Project": {
+    "description": "On-demand traffic observations for 21 Dar es Salaam corridors with a separate permitted-history pipeline.",
+    "topics": [
+      "python",
+      "nextjs",
+      "data-engineering",
+      "tanzania",
+      "traffic"
+    ]
+  },
+  "multiservicepro": {
+    "description": "Next.js website prototype for logistics, IT, agriculture and garage services.",
+    "topics": [
+      "nextjs",
+      "typescript",
+      "web-development",
+      "tanzania"
+    ]
+  },
+  "API-Mastery-Journey": {
+    "description": "Python exercises for learning HTTP, JSON and REST APIs.",
+    "topics": [
+      "python",
+      "rest-api",
+      "learning"
+    ]
+  },
+  "utt-amis-tracker": {
+    "description": "Python and Streamlit experiment for tracking UTT AMIS fund values.",
+    "topics": [
+      "python",
+      "streamlit",
+      "data-pipeline",
+      "tanzania"
+    ]
+  },
+  "made-in-tanzania": {
+    "description": "Fork of the community collection of projects built by Tanzanian developers.",
+    "topics": [
+      "tanzania",
+      "awesome-list",
+      "community"
+    ]
+  },
+  "magamba-site": {
+    "description": "Static Magamba school website with school information and gallery pages.",
+    "topics": [
+      "html",
+      "css",
+      "javascript",
+      "school"
+    ]
+  },
+  "Morning_Briefing_Bot": {
+    "description": "Telegram morning briefing with weather and RSS headlines, scheduled through GitHub Actions.",
+    "topics": [
+      "python",
+      "telegram-bot",
+      "rss",
+      "automation"
+    ]
+  },
+  "telco-agentic-troubleshooter": {
+    "description": "LLM troubleshooting experiment using simulated telecom tools and a remote model backend.",
+    "topics": [
+      "python",
+      "llm",
+      "agents",
+      "telecommunications"
+    ]
+  },
+  "Data-Scientist-In-Python": {
+    "description": "Fork of Python data-science course notes and exercises.",
+    "topics": [
+      "python",
+      "data-science",
+      "learning"
+    ]
+  },
+  "malariagen-data-python": {
+    "description": "Fork of the MalariaGEN Python data-analysis library.",
+    "topics": [
+      "python",
+      "bioinformatics",
+      "data-analysis"
+    ]
+  },
+  "dse-investment-dashboard": {
+    "description": "Dar es Salaam Stock Exchange data dashboard and modelling experiments.",
+    "topics": [
+      "python",
+      "javascript",
+      "data-visualization",
+      "tanzania"
+    ]
+  },
+  "decodelabs_tasks": {
+    "description": "Weekly AI and Python learning exercises, including classification and OCR.",
+    "topics": [
+      "python",
+      "learning",
+      "ocr"
+    ]
+  },
+  "twiga": {
+    "description": "Fork of the Twiga WhatsApp bot for Tanzanian educators.",
+    "topics": [
+      "python",
+      "whatsapp",
+      "education",
+      "tanzania"
+    ]
+  },
+  "CariesVision": {
+    "description": "Educational Streamlit prototype combining YOLO image detection and an AI chat interface.",
+    "topics": [
+      "python",
+      "streamlit",
+      "computer-vision",
+      "prototype"
+    ]
+  },
+  "mccollins-group": {
+    "description": "Next.js fashion storefront with product, cart, account and administration pages.",
+    "topics": [
+      "nextjs",
+      "typescript",
+      "ecommerce",
+      "prisma"
+    ]
+  },
+  "Top-AI-repos": {
+    "description": "Fork of a curated collection of popular open-source AI repositories.",
+    "topics": [
+      "artificial-intelligence",
+      "awesome-list"
+    ]
+  },
+  "east-african-air-quality-tracker": {
+    "description": "Streamlit prototype displaying air-quality estimates for 26 Tanzanian locations.",
+    "topics": [
+      "python",
+      "streamlit",
+      "air-quality",
+      "sqlite",
+      "tanzania"
+    ]
+  },
+  "youtube-content-intelligence": {
+    "description": "Python project for YouTube content analysis.",
+    "topics": [
+      "python",
+      "youtube",
+      "data-analysis"
+    ]
+  },
+  "calculator": {
+    "description": "Fork used to practise Git collaboration with a Python calculator.",
+    "topics": [
+      "python",
+      "learning",
+      "calculator"
+    ]
+  },
+  "Python": {
+    "description": "Fork of The Algorithms Python collection.",
+    "topics": [
+      "python",
+      "algorithms",
+      "learning"
+    ]
+  },
+  "help-teach-ai-swahili": {
+    "description": "Contribution-platform prototype for Swahili text, audio and response evaluations.",
+    "topics": [
+      "nextjs",
+      "typescript",
+      "swahili",
+      "nlp"
+    ]
+  },
+  "ML-foundations": {
+    "description": "Fork of Jon Krohn\u2019s machine-learning foundations curriculum.",
+    "topics": [
+      "machine-learning",
+      "mathematics",
+      "learning"
+    ]
+  },
+  "java-journey": {
+    "description": "Java learning exercises and small projects covering programming fundamentals.",
+    "topics": [
+      "java",
+      "learning",
+      "object-oriented-programming"
+    ]
+  },
+  "handwritten-digit-recognizer": {
+    "description": "PyTorch MNIST classifier with Streamlit, image preprocessing and reproducible evaluation.",
+    "topics": [
+      "python",
+      "pytorch",
+      "mnist",
+      "computer-vision",
+      "streamlit"
+    ]
+  },
+  "ujenzismart-backend": {
+    "description": "Early Express and Firebase backend prototype for UjenziSmart.",
+    "topics": [
+      "nodejs",
+      "express",
+      "firebase",
+      "prototype"
+    ]
+  },
+  "automation": {
+    "description": "Fork of Python automation examples.",
+    "topics": [
+      "python",
+      "automation",
+      "learning"
+    ]
+  },
+  "game": {
+    "description": "Goofy Bubbles: a single-page browser game.",
+    "topics": [
+      "javascript",
+      "html",
+      "browser-game"
+    ]
+  },
+  "python-for-data-science": {
+    "description": "Fork of Python data-science learning material.",
+    "topics": [
+      "python",
+      "data-science",
+      "learning"
+    ]
+  }
+}

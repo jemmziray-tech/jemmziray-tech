@@ -1,8 +1,6 @@
 name: WakaTime Readme
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # Runs every night at midnight
   workflow_dispatch:
 
 jobs:
