@@ -1,29 +1,41 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=John+Mziray;AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+for+Real-World+Impact" alt="John Mziray — AI Engineer and Data Engineer — Building Intelligent Systems for Real-World Impact" />
-</p>
+<div align="center">
 
-<p align="center">
-  AI & Machine Learning student at the University of Limerick · Limerick, Ireland<br>
-  Building useful AI applications, data pipelines and computer vision tools.
-</p>
+# John Mziray
 
-<p align="center">
-  <a href="https://john-mziray-portifolio.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/john-mziray/">LinkedIn</a> ·
-  <a href="mailto:jem.mziray@gmail.com">Email</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&height=40&lines=AI+Engineer+%7C+Data+Engineer;Building+intelligent+systems;From+ideas+to+working+products" alt="AI Engineer | Data Engineer — Building intelligent systems — From ideas to working products" />
 
-## Selected projects
+**AI & Machine Learning student · University of Limerick**
 
-| Project | Focus | Links |
-| --- | --- | --- |
-| **UL Navigator AI** | Source-grounded assistant for UL students | [Repo](https://github.com/jemmziray-tech/ul-navigator-ai) · [Live](https://ul-navigator-ai.vercel.app/) |
-| **Dar Traffic** | Traffic and weather for Dar es Salaam | [Repo](https://github.com/jemmziray-tech/Dar_Traffic_Project) · [Live](https://dartraffic.vercel.app/) |
-| **FaceLogTZ** | Computer vision attendance | [Repo](https://github.com/jemmziray-tech/FaceLogTZ) |
-| **Churn Interception** | Machine learning for customer retention | [Repo](https://github.com/jemmziray-tech/enterprise-churn-interception) |
+AI applications, data pipelines and computer vision — with a focus on useful technology.
 
-## Toolkit
+[Portfolio](https://john-mziray-portifolio.vercel.app/) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/john-mziray/) &nbsp; / &nbsp; [Email](mailto:jem.mziray@gmail.com)
 
-**Python · TypeScript · Java · PyTorch · OpenCV · FastAPI · Next.js · Google Cloud · Docker**
+</div>
 
-Interested in RAG, data engineering and technology that serves communities in Tanzania and beyond. Open to collaborations and open-source contributions.
+---
+
+### Selected work
+
+**[UL Navigator AI](https://github.com/jemmziray-tech/ul-navigator-ai)** &nbsp; · &nbsp; [Live ↗](https://ul-navigator-ai.vercel.app/)  
+A source-grounded student assistant with cited answers and programme semester maps.
+
+**[Dar Traffic](https://github.com/jemmziray-tech/Dar_Traffic_Project)** &nbsp; · &nbsp; [Live ↗](https://dartraffic.vercel.app/)  
+Traffic and weather insights for 21 corridors in Dar es Salaam.
+
+**[FaceLogTZ](https://github.com/jemmziray-tech/FaceLogTZ)**  
+Computer vision attendance with local facial recognition and WhatsApp notifications.
+
+**[Churn Interception](https://github.com/jemmziray-tech/enterprise-churn-interception)**  
+Machine learning for identifying customers at risk of leaving.
+
+### Tools I build with
+
+<img src="https://skillicons.dev/icons?i=python,ts,pytorch,fastapi,nextjs,gcp,docker,git&theme=dark" alt="Python, TypeScript, PyTorch, FastAPI, Next.js, Google Cloud, Docker and Git" height="36" />
+
+### Currently exploring
+
+RAG evaluation · Reliable data pipelines · Applied computer vision
+
+---
+
+<sub>Based in Limerick, Ireland · Motivated by useful technology for Tanzania and beyond · Open to collaboration</sub>
