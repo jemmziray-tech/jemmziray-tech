@@ -1,129 +1,89 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=800&lines=John+Mziray;AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems+for+Real-World+Impact" />
-</p>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bc/512.gif" width="28" align="center"> Executive Summary
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="20" align="center"> **Education:** BSc in Artificial Intelligence & Machine Learning, University of Limerick *(Class of 2030)* |  Based in Ireland  
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f517/512.gif" width="20" align="center"> **Portfolio:** <a href="https://john-mziray-portifolio.vercel.app/">Visit My Live Portfolio</a>  
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="20" align="center"> **Certified:** Google AI Professional, Google Data Analytics Professional, & <a href="https://www.datacamp.com/certificate/PDA0015545171182">DataCamp Python Data Associate</a>  
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="20" align="center"> Passionate about **Data Engineering, Generative AI, and Computer Vision**. I build intelligent, cloud-native systems that solve **real-world problems**, with a strict focus on **African infrastructure, fault-tolerant pipelines, and MLOps**.
-
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e0/512.gif" width="18" align="center"> **Current Initiative:** Scaling the <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">Dar es Salaam Smart City Engine</a>, a fully automated, cloud-native traffic telemetry pipeline.
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="18" align="center"> **Continuous Learning:** Deepening my expertise in deep learning frameworks (PyTorch) and Enterprise CI/CD.
-* <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f310/512.gif" width="18" align="center"> **Open to Collaboration:** I'm actively looking for open-source contributors for **FaceLogTZ** (offline-first CV attendance). <a href="https://github.com/jemmziray-tech/FaceLogTZ">Reach out or open a PR!</a>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="28" align="center"> Tech Stack
-
-<p align="left">
-  <b>Languages & Core Architecture</b><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>Data Engineering & Cloud DevOps</b><br>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
-
-<p align="left">
-  <b>AI, Machine Learning & MLOps</b><br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4c2/512.gif" width="28" align="center"> Key Engineering Projects
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a6/512.gif" width="22" align="center"> **Dar es Salaam Smart City: Traffic & Weather Engine** <i>(Flagship)</i><br>
-<i>Cloud-Native Data Engineering Pipeline & AI Dashboard</i><br>
-▹ <b>Enterprise CI/CD & Ingestion:</b> 100% autonomous serverless pipeline utilizing `ThreadPoolExecutor` for concurrent scraping and `pytest` for strict CI validation.<br>
-▹ <b>Data Contracts & MLOps:</b> Protects NoSQL schema drift with Pydantic and tracks model predictive drift (R² and MAE) via automated weekly retraining workflows.<br>
-▹ <b>GenAI Integration:</b> Utilizes Google Gemini 1.5 Flash to generate dynamic, live commute radio broadcasts.<br>
-🔗 <a href="https://github.com/jemmziray-tech/Dar_Traffic_Project">View Repository</a> | 🌐 <a href="https://dartrafficproject-johnmziray.streamlit.app/">Live Command Center</a>
-
-<br>
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3e2/512.gif" width="22" align="center"> **Enterprise Churn Interception**<br>
-<i>Machine Learning Model for Customer Retention</i><br>
-▹ Engineered predictive analytics to identify at-risk customers, enabling data-driven retention strategies.<br>
-▹ End-to-end ML pipeline from data processing to Streamlit deployment.<br>
-🔗 <a href="https://github.com/jemmziray-tech/enterprise-churn-interception">View Repository</a> | 🌐 <a href="https://enterprise-churn-interception.streamlit.app/">Live Demo</a>
-
-<br>
-
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4f8/512.gif" width="22" align="center"> **FaceLogTZ**<br>
-<i>Smart Attendance System powered by Computer Vision</i><br>
-▹ Offline-first architecture utilizing facial recognition deep learning encodings.<br>
-▹ Optimized specifically for low-light & real-world African environments.<br>
-🔗 <a href="https://github.com/jemmziray-tech/FaceLogTZ">View Repository</a>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ca/512.gif" width="28" align="center"> Metrics & Telemetry
-
-<p align="center">
-  <a href="https://committers.top/ireland">
-    <img src="https://user-badge.committers.top/ireland_public/jemmziray-tech.svg?v=1" alt="committers.top badge" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemmziray-tech&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=jemmziray-tech&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemmziray-tech&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=John_Mziray&layout=compact&theme=tokyonight&hide_border=true&nocache=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jemmziray-tech&theme=tokyonight&hide_border=true&bg_color=1A1B27" width="100%" alt="John's Activity Graph" />
-</p>
-
----
-
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" width="28" align="center"> Contact & Network
-
 <div align="center">
-  <p>I am actively open to discussing Data Engineering roles, MLOps collaborations, or new infrastructure projects.</p>
-  
-  <a href="mailto:jem.mziray@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/john-mziray-4a0b88392">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://john-mziray-portifolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
 
-  <br><br>
+# Hi, I'm John Mziray
 
-  <img src="https://komarev.com/ghpvc/?username=jemmziray-tech&label=Profile%20Views&color=0e75b6&style=flat" />
-  
-  <br><br>
-  
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Motivational Quote" />
-  </a>
+**AI & Machine Learning student at the University of Limerick**
+
+Building AI applications, data pipelines and computer vision tools.
+
+[Portfolio](https://john-mziray-portifolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/john-mziray-4a0b88392/) · [Email](mailto:jem.mziray@gmail.com)
+
 </div>
 
+---
 
+## About me
+
+I'm John Elifuraha Mziray, based in Limerick, Ireland. I study Artificial Intelligence & Machine Learning at the University of Limerick and build projects that turn what I'm learning into something people can use.
+
+My interests span retrieval-augmented generation, data engineering and computer vision. I care about clear interfaces, reliable data and making it easy to check where an answer comes from. Tanzania and the wider African technology community are a big part of what motivates me.
+
+## Featured project · UL Navigator AI
+
+**An independent student-built assistant for University of Limerick information.**
+
+Students can ask about programmes, explore modules by year and semester, read published module content and follow citations back to official university sources.
+
+<a href="https://ul-navigator-ai.vercel.app/">
+  <img src="https://raw.githubusercontent.com/jemmziray-tech/ul-navigator-ai/main/docs/screenshots/home.png" alt="UL Navigator AI homepage with links to student questions and tools" width="800">
+</a>
+
+What I built:
+
+- A RAG pipeline combining semantic search, keyword retrieval and reranking.
+- Programme clarification and contextual follow-ups for questions about modules and semesters.
+- A semester browser with 163 captured programme maps, including separate pathways and elective wording.
+- Cited answers, progressive replies and source excerpts when generation is unavailable.
+- Course comparison, a QCA calculator, a grade planner and a coverage dashboard.
+- A Next.js frontend and FastAPI backend, deployed on Vercel and Google Cloud Run.
+
+**Built with:** Python · FastAPI · Next.js · TypeScript · Gemini · FAISS · BM25 · Sentence Transformers
+
+**[Try the app](https://ul-navigator-ai.vercel.app/) · [View the code](https://github.com/jemmziray-tech/ul-navigator-ai) · [Explore semester maps](https://ul-navigator-ai.vercel.app/curricula?course=LM174)**
+
+> UL Navigator AI is an independent student project, not an official UL service. Source coverage is partial; published listings do not guarantee applicability to every academic-year cohort.
+
+## More projects
+
+### Dar Traffic
+
+A traffic and weather application for 21 configured corridors in Dar es Salaam. It shows travel-time estimates, additional delay, corridor comparisons and data coverage.
+
+The live service returns Google traffic estimates to the browser; permitted historical observations use a separate Firestore pipeline. Forecasting is not currently enabled.
+
+**Built with:** Python · Next.js · Google Cloud Run · Firestore · Google Distance Matrix · Open-Meteo
+
+[Live website](https://dartraffic.vercel.app/) · [Repository](https://github.com/jemmziray-tech/Dar_Traffic_Project)
+
+### FaceLogTZ
+
+A computer vision attendance project that processes facial recognition locally, records attendance and integrates WhatsApp notifications through Twilio.
+
+The project explores local video processing, a desktop interface, duplicate attendance prevention and background task handling.
+
+**Built with:** Python · OpenCV · face_recognition · CustomTkinter · Twilio
+
+[Repository](https://github.com/jemmziray-tech/FaceLogTZ)
+
+## Tools I work with
+
+| Area | Tools |
+| --- | --- |
+| Languages | Python, TypeScript, Java |
+| AI & machine learning | PyTorch, scikit-learn, Gemini, Sentence Transformers, OpenCV |
+| Data & retrieval | Pandas, Pydantic, SQL, FAISS, BM25 |
+| Applications | FastAPI, Next.js, React, Streamlit |
+| Cloud & development | Google Cloud, Vercel, Docker, Git, GitHub Actions, pytest |
+
+## What I'm exploring next
+
+- Evaluating retrieval and answer quality across more student questions.
+- Improving source freshness, module coverage and visibility of missing information.
+- Deepening my understanding of PyTorch, model evaluation and deployment.
+- Building useful AI and data tools for communities in Tanzania and beyond.
+
+## Let's connect
+
+I'm open to AI and data engineering collaborations, open-source contributions and conversations about useful projects.
+
+[LinkedIn](https://www.linkedin.com/in/john-mziray-4a0b88392/) · [Portfolio](https://john-mziray-portifolio.vercel.app/) · [Email](mailto:jem.mziray@gmail.com)
